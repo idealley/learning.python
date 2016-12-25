@@ -33,4 +33,4 @@ def days_old(day, month, year):
 
     return days
 
-print(days_old(10, 03, 1981))
+print(days_old(10, 3, 1981))
