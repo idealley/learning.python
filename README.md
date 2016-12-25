@@ -33,6 +33,8 @@ Progression from basic function to use generators to save memory
 * Class methods
 * Private attributes
 * property
+* overloading
 
 ## Iterators
+* Custom Iterator
 
