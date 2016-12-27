@@ -33,4 +33,8 @@ def days_old(day, month, year):
 
     return days
 
-print(days_old(10, 3, 1981))
+print("Samuel: ", days_old(10, 3, 1981))
+print("Nicolas: ", days_old(17, 3, 1974))
+print("Steph: ", days_old(11, 10, 1953))
+print("Sara: ", days_old(9, 10, 1982))
+print("France: ", days_old(19, 1, 1958))
